@@ -1,7 +1,7 @@
 # project-2
 
 cafe site
-زشبث 
+
 - [Demo Project](https://maryambanoo-sadeghi-dev.github.io/project-2/)
 
 - Coded by maryam sadeghi
@@ -12,6 +12,6 @@ cafe site
 
 - Role - Frontend
 
-  master: parsa ghorbanian
+  master: parsaGhorbanian
 
 - How to reach me : with my [instagram](https://www.instagram.com/maryambanoo.sadeghi.dev) and [linkedin](https://www.linkedin.com/in/maryam-sadeghi-dev-5013ab361)
