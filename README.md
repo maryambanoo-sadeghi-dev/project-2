@@ -12,6 +12,6 @@ cafe site
 
 - Role - Frontend
 
-  master: parsaGhorbanian
+- master: [parsaGhorbanian](https://github.com/parsaGhorbanian)
 
 - How to reach me : with my [instagram](https://www.instagram.com/maryambanoo.sadeghi.dev) and [linkedin](https://www.linkedin.com/in/maryam-sadeghi-dev-5013ab361)
