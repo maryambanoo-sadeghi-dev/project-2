@@ -1,0 +1,97 @@
+:root {
+    --favLinkColor: #333;
+    --favTextColorGreen: #114639;
+    --favTextColorGrey: rgba(58, 57, 57, 0.753);
+}
+.button{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2% 0;
+    >a{
+        display: block;
+        width: 20%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: bold;
+        transition: 1s;
+        &:nth-of-type(1){
+            color: white;
+            background-color: var(--favTextColorGreen);
+        }
+        &:nth-of-type(2){
+            color: var(--favTextColorGreen);
+            border:2px solid  var(--favTextColorGrey);
+            &:hover{
+                color: white;
+                background-color: var(--favTextColorGreen);
+                border: none;
+            }
+        }
+    }
+}
+.titr {
+    width: 100%;
+    color: var(--favTextColorGreen);
+    font-size: 38px;
+    font-weight: bold;
+    /* border: 1px solid teal; */
+}
+.para{
+    width: 100%;
+    color: var(--favTextColorGrey);
+    font-size: 18px;
+    font-weight: normal;
+    padding: 3% 0;
+    line-height: 35px;
+    /* border: 1px solid black; */
+}
+.link{
+    width: fit-content;
+    display: block;
+    text-transform: uppercase;
+    color: var(--favTextColorGrey);
+    border-bottom: 2px solid var(--favTextColorGreen);
+    font-size: 14px;
+    margin: 3% auto;
+    padding: 2%;
+    font-weight: bold;
+    transition: 1s;
+    &:hover{
+        color: var(--favTextColorGreen);
+    }
+}
+.images{
+    width: 90%;
+    margin: 0 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+    >figure{
+        width: 20%;
+        flex-wrap: wrap;
+        >*{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        >img{
+            height: 80%;
+            transition: 1s!important;
+        }
+        >figcaption{
+            width: 100%;
+            color: var(--favTextColorGrey);
+            font-size: 16px;
+            font-weight: bold;
+            height: 10%;
+            &:nth-of-type(2){
+                color: var(--favTextColorGreen);
+            }
+        }
+    }
+}
