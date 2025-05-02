@@ -1,11 +1,12 @@
 # project-2
+
 cafe site
 زشبث 
-- [Demo Project](https://maryambanoo-sadeghi-dev.github.io/web-24/)
+- [Demo Project](https://maryambanoo-sadeghi-dev.github.io/project-2/)
 
 - Coded by maryam sadeghi
 
-- Created - 2025-4
+- Created - 2025-5
 
 - Technologies Used - Html , css
 
