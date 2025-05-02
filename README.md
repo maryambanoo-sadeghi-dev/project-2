@@ -15,7 +15,7 @@ cafe site
 - ![Image](https://github.com/user-attachments/assets/db479e5c-3449-45d8-ab26-96509fbb38f7)
 
 
-- Coded by maryam sadeghi
+- 💻 Coded by maryam sadeghi
 
 - Created - 2025-5
 
@@ -27,4 +27,4 @@ cafe site
 
 - How to reach me : with my [instagram](https://www.instagram.com/maryambanoo.sadeghi.dev) and [linkedin](https://www.linkedin.com/in/maryam-sadeghi-dev-5013ab361)
 
-- I will continue stronger than before....
+- I will continue stronger than before....💪
